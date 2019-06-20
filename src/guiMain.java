@@ -12,7 +12,7 @@ public class guiMain {
 
 	public static void main(String[] args) {
 		JFrame mainFrame = new JFrame("Welcome");	//creates a JFrame that occupies the whole screen
-		mainFrame.setSize(1940, 1080);
+		mainFrame.setSize(1920, 1080);
 		mainFrame.setLocation(0, 0);	//centered 
 		
 		JButton playButton = new JButton("PLAY");	//creates the play button. 
