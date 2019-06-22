@@ -39,6 +39,9 @@ public class decryptionAlgorithm {	//TODO - finish up the special character logi
 			
 		}
 		
+		// Run time goes up expontentially
+		// 9 givens and 35 max capacity takes over 2 min to run
+		
 	}
 	
 	/**
